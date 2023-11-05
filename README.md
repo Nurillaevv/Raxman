@@ -12,7 +12,7 @@
             <h1>About Nurillaev Raxman</h1>
         </div>
         <div class="bot">
-            <p style="display: inline;">My name is Abdurashit and i am <p style="display: inline; color: red;">lazzy</p>  and  <p style="display: inline; color: red;">funny</p>
+            <p style="display: inline;">My name is Raxman and i am <p style="display: inline; color: red;">clever</p>  and  <p style="display: inline; color: red;">brilliant</p>
         </p>
         </div>
         <hr>
